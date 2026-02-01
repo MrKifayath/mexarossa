@@ -1,0 +1,1122 @@
+[
+    {
+        "id":  "prod-0016",
+        "name":  "Formal Cotton Shirt",
+        "description":  "Classic formal shirt crafted from premium cotton with wrinkle-resistant finish. Features regular fit, button-down collar, and professional styling for office wear.",
+        "price":  1299,
+        "originalPrice":  7000,
+        "brand":  "Van Heusen",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0017",
+        "name":  "Denim Jeans",
+        "description":  "Comfortable denim jeans with classic fit and durable construction. Made from quality cotton blend with timeless styling suitable for casual everyday wear.",
+        "price":  1499,
+        "originalPrice":  3697,
+        "brand":  "Lee",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0018",
+        "name":  "Cotton T-Shirt",
+        "description":  "Soft, breathable cotton t-shirt perfect for sports and casual wear. Features moisture-wicking fabric, comfortable fit, and durable construction for active lifestyles.",
+        "price":  399,
+        "originalPrice":  3659,
+        "brand":  "Decathlon",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0019",
+        "name":  "Silk Saree",
+        "description":  "Elegant pure silk saree with traditional Kanjivaram weaving. Features rich colors, intricate zari work, and luxurious drape perfect for special occasions.",
+        "price":  3999,
+        "originalPrice":  9343,
+        "brand":  "Kanjivaram",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0020",
+        "name":  "Cotton Kurti",
+        "description":  "Comfortable cotton kurti with contemporary design and traditional charm. Features breathable fabric, flattering fit, and versatile styling for everyday ethnic wear.",
+        "price":  799,
+        "originalPrice":  6217,
+        "brand":  "Libas",
+        "category":  "clothing",
+        "inStock":  false
+    },
+    {
+        "id":  "prod-0021",
+        "name":  "Running Shoes",
+        "description":  "Lightweight running shoes with cushioned sole and breathable mesh upper. Designed for comfort and performance during jogging, training, and everyday activities.",
+        "price":  2999,
+        "originalPrice":  9387,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0022",
+        "name":  "Cricket Bat",
+        "description":  "Professional-grade cricket bat made from premium English willow. Features excellent balance, powerful sweet spot, and traditional craftsmanship for serious players.",
+        "price":  3499,
+        "originalPrice":  10331,
+        "brand":  "SG",
+        "category":  "sports-outdoors",
+        "inStock":  false
+    },
+    {
+        "id":  "prod-0023",
+        "name":  "Yoga Mat",
+        "description":  "Non-slip yoga mat with cushioned surface for comfortable practice. Made from eco-friendly materials with excellent grip and durability for all yoga styles.",
+        "price":  799,
+        "originalPrice":  4609,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0024",
+        "name":  "Dumbbell Set",
+        "description":  "Adjustable dumbbell set perfect for home workouts and strength training. Features durable construction, comfortable grip, and versatile weight options for all fitness levels.",
+        "price":  4999,
+        "originalPrice":  7716,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0025",
+        "name":  "Camping Tent",
+        "description":  "Spacious camping tent with waterproof design and easy setup. Accommodates multiple people with good ventilation, UV protection, and durable construction for outdoor adventures.",
+        "price":  3999,
+        "originalPrice":  9398,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0026",
+        "name":  "Coffee Maker",
+        "description":  "Automatic drip coffee maker with programmable timer and keep-warm function. Brews perfect coffee every time with easy operation and sleek design for your kitchen.",
+        "price":  2499,
+        "originalPrice":  9058,
+        "brand":  "Philips",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0027",
+        "name":  "Microwave Oven",
+        "description":  "Versatile microwave oven with multiple cooking modes including grill and convection. Features auto-cook menus, child lock, and energy-efficient operation for modern kitchens.",
+        "price":  5999,
+        "originalPrice":  9762,
+        "brand":  "LG",
+        "category":  "home-garden",
+        "inStock":  false
+    },
+    {
+        "id":  "prod-0028",
+        "name":  "Air Purifier",
+        "description":  "Advanced air purifier with HEPA filtration removes 99.97% of airborne particles. Features smart sensors, quiet operation, and coverage for large rooms to ensure clean air.",
+        "price":  8999,
+        "originalPrice":  11032,
+        "brand":  "Philips",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0031",
+        "name":  "Office Chair",
+        "description":  "Ergonomic office chair with adjustable height, lumbar support, and breathable mesh back. Designed for all-day comfort with sturdy construction and smooth-rolling casters.",
+        "price":  7999,
+        "originalPrice":  10148,
+        "brand":  "Nilkamal",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0032",
+        "name":  "Study Table",
+        "description":  "Functional study table with spacious work surface and storage compartments. Features durable construction, modern design, and perfect dimensions for students and professionals.",
+        "price":  5999,
+        "originalPrice":  8177,
+        "brand":  "Nilkamal",
+        "category":  "home-garden",
+        "inStock":  false
+    },
+    {
+        "id":  "prod-0034",
+        "name":  "Bookshelf",
+        "description":  "Versatile bookshelf with multiple shelves for books, decor, and storage. Features sturdy construction, modern design, and ample space to organize your collection.",
+        "price":  3999,
+        "originalPrice":  9212,
+        "brand":  "Nilkamal",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0036",
+        "name":  "The Midnight Library",
+        "description":  "Bestselling novel by Matt Haig exploring infinite possibilities and second chances. A heartwarming story about life, regret, and the endless possibilities of the universe.",
+        "price":  399,
+        "originalPrice":  6685,
+        "brand":  "Penguin",
+        "category":  "books-media",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0037",
+        "name":  "Indian Cooking Mastery",
+        "description":  "Comprehensive guide to authentic Indian cuisine with traditional recipes and modern techniques. Features regional specialties, spice guides, and step-by-step instructions.",
+        "price":  599,
+        "originalPrice":  4853,
+        "brand":  "Penguin",
+        "category":  "books-media",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0038",
+        "name":  "Atomic Habits",
+        "description":  "Transformative book by James Clear on building good habits and breaking bad ones. Practical strategies backed by science to create lasting positive change in your life.",
+        "price":  449,
+        "originalPrice":  6799,
+        "brand":  "Penguin",
+        "category":  "books-media",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0039",
+        "name":  "The Lean Startup",
+        "description":  "Epic historical narrative exploring India\u0027s rich past from ancient civilizations to modern times. Comprehensive and engaging account by renowned historian John Keay.",
+        "price":  499,
+        "originalPrice":  3248,
+        "brand":  "Penguin",
+        "category":  "books-media",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0040",
+        "name":  "India: A History",
+        "description":  "Groundbreaking business book by Eric Ries on building successful startups through validated learning. Essential reading for entrepreneurs and innovators worldwide.",
+        "price":  699,
+        "originalPrice":  3895,
+        "brand":  "Penguin",
+        "category":  "books-media",
+        "inStock":  false
+    },
+    {
+        "id":  "prod-0041",
+        "name":  "Wireless Earbuds",
+        "description":  "True wireless earbuds with active noise cancellation, 6-hour battery life, and IPX4 water resistance. Features touch controls and premium sound quality.",
+        "price":  2999,
+        "originalPrice":  4999,
+        "brand":  "boAt",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0042",
+        "name":  "Fire-Boltt Phoenix Pro Smartwatch",
+        "description":  "Fitness smartwatch with heart rate monitoring, GPS tracking, and 7-day battery life. Features multiple sports modes and smartphone notifications.",
+        "price":  3999,
+        "originalPrice":  6999,
+        "brand":  "Fire-Boltt",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0043",
+        "name":  "Power Bank",
+        "description":  "20000mAh portable power bank with fast charging support and dual USB ports. Features LED display and compact design for travel convenience.",
+        "price":  1499,
+        "originalPrice":  2499,
+        "brand":  "Mi",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0044",
+        "name":  "Bluetooth Speaker",
+        "description":  "Portable Bluetooth speaker with 360-degree sound, waterproof design, and 12-hour battery life. Perfect for outdoor adventures and parties.",
+        "price":  2499,
+        "originalPrice":  3999,
+        "brand":  "JBL",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0045",
+        "name":  "Gaming Mouse",
+        "description":  "High-precision gaming mouse with RGB lighting, programmable buttons, and ergonomic design. Features adjustable DPI up to 12000 for competitive gaming.",
+        "price":  1999,
+        "originalPrice":  3499,
+        "brand":  "Logitech",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0046",
+        "name":  "Wireless Keyboard",
+        "description":  "Slim wireless keyboard with backlit keys, long battery life, and quiet typing experience. Compatible with multiple devices via Bluetooth.",
+        "price":  2799,
+        "originalPrice":  4299,
+        "brand":  "Logitech",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0047",
+        "name":  "Phone Case",
+        "description":  "Premium leather phone case with card slots and magnetic closure. Provides excellent protection while maintaining elegant style and functionality.",
+        "price":  799,
+        "originalPrice":  1499,
+        "brand":  "Bellroy",
+        "category":  "accessories",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0048",
+        "name":  "Sunglasses",
+        "description":  "Polarized sunglasses with UV400 protection and lightweight titanium frame. Features anti-glare coating and stylish design for all-day comfort.",
+        "price":  1999,
+        "originalPrice":  3999,
+        "brand":  "Ray-Ban",
+        "category":  "accessories",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0049",
+        "name":  "Laptop Bag",
+        "description":  "Professional laptop backpack with padded compartments, water-resistant material, and multiple pockets. Fits laptops up to 15.6 inches.",
+        "price":  2499,
+        "originalPrice":  3999,
+        "brand":  "Targus",
+        "category":  "accessories",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0050",
+        "name":  "Watch",
+        "description":  "Classic analog watch with stainless steel case, leather strap, and water resistance. Features precise quartz movement and elegant design.",
+        "price":  3999,
+        "originalPrice":  6999,
+        "brand":  "Fossil",
+        "category":  "accessories",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0052",
+        "name":  "Moisturizer",
+        "description":  "Hydrating face moisturizer with hyaluronic acid and SPF 30. Provides all-day moisture protection and anti-aging benefits for healthy, glowing skin.",
+        "price":  599,
+        "originalPrice":  999,
+        "brand":  "Olay",
+        "category":  "personal",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0053",
+        "name":  "Shampoo",
+        "description":  "Nourishing shampoo with argan oil for dry and damaged hair. Features sulfate-free formula, deep conditioning, and helps restore hair\u0027s natural shine.",
+        "price":  399,
+        "originalPrice":  699,
+        "brand":  "L\u0027Oreal",
+        "category":  "personal",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0054",
+        "name":  "Electric Toothbrush",
+        "description":  "Rechargeable electric toothbrush with multiple cleaning modes, pressure sensor, and 2-minute timer. Includes travel case and replacement brush heads.",
+        "price":  2999,
+        "originalPrice":  4999,
+        "brand":  "Oral-B",
+        "category":  "personal",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0055",
+        "name":  "Hair Dryer",
+        "description":  "Professional hair dryer with ionic technology, multiple heat settings, and cool shot button. Features lightweight design and fast drying performance.",
+        "price":  1999,
+        "originalPrice":  3499,
+        "brand":  "Philips",
+        "category":  "personal",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0056",
+        "name":  "Formal Cotton Shirt v2",
+        "description":  "High quality formal cotton shirt with excellent features and durability.",
+        "price":  1799,
+        "originalPrice":  7379,
+        "brand":  "Van Heusen",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0057",
+        "name":  "Denim Jeans v2",
+        "description":  "High quality denim jeans with excellent features and durability.",
+        "price":  1999,
+        "originalPrice":  7242,
+        "brand":  "Lee",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0058",
+        "name":  "Cotton T-Shirt v2",
+        "description":  "High quality cotton t-shirt with excellent features and durability.",
+        "price":  899,
+        "originalPrice":  4611,
+        "brand":  "Decathlon",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0059",
+        "name":  "Silk Saree v2",
+        "description":  "High quality silk saree with excellent features and durability.",
+        "price":  4499,
+        "originalPrice":  9699,
+        "brand":  "Kanjivaram",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0060",
+        "name":  "Cotton Kurti v2",
+        "description":  "High quality cotton kurti with excellent features and durability.",
+        "price":  1299,
+        "originalPrice":  5113,
+        "brand":  "Libas",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0061",
+        "name":  "Running Shoes v2",
+        "description":  "High quality running shoes with excellent features and durability.",
+        "price":  3499,
+        "originalPrice":  6422,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0062",
+        "name":  "Cricket Bat v2",
+        "description":  "High quality cricket bat with excellent features and durability.",
+        "price":  3999,
+        "originalPrice":  9078,
+        "brand":  "SG",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0063",
+        "name":  "Yoga Mat v2",
+        "description":  "High quality yoga mat with excellent features and durability.",
+        "price":  1299,
+        "originalPrice":  3783,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  false
+    },
+    {
+        "id":  "prod-0064",
+        "name":  "Dumbbell Set v2",
+        "description":  "High quality dumbbell set with excellent features and durability.",
+        "price":  5499,
+        "originalPrice":  11183,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0065",
+        "name":  "Camping Tent v2",
+        "description":  "High quality camping tent with excellent features and durability.",
+        "price":  4499,
+        "originalPrice":  9001,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0066",
+        "name":  "Coffee Maker v2",
+        "description":  "High quality coffee maker with excellent features and durability.",
+        "price":  2999,
+        "originalPrice":  7611,
+        "brand":  "Philips",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0067",
+        "name":  "Microwave Oven v2",
+        "description":  "High quality microwave oven with excellent features and durability.",
+        "price":  6499,
+        "originalPrice":  10971,
+        "brand":  "LG",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0068",
+        "name":  "Air Purifier v2",
+        "description":  "High quality air purifier with excellent features and durability.",
+        "price":  9499,
+        "originalPrice":  15334,
+        "brand":  "Philips",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0071",
+        "name":  "Office Chair v2",
+        "description":  "High quality office chair with excellent features and durability.",
+        "price":  8499,
+        "originalPrice":  12859,
+        "brand":  "Nilkamal",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0072",
+        "name":  "Study Table v2",
+        "description":  "High quality study table with excellent features and durability.",
+        "price":  6499,
+        "originalPrice":  12431,
+        "brand":  "Nilkamal",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0074",
+        "name":  "Bookshelf v2",
+        "description":  "High quality bookshelf with excellent features and durability.",
+        "price":  4499,
+        "originalPrice":  10346,
+        "brand":  "Nilkamal",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0076",
+        "name":  "The Midnight Library v2",
+        "description":  "High quality the midnight library with excellent features and durability.",
+        "price":  899,
+        "originalPrice":  3664,
+        "brand":  "Penguin",
+        "category":  "books-media",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0077",
+        "name":  "Indian Cooking Mastery v2",
+        "description":  "High quality indian cooking mastery with excellent features and durability.",
+        "price":  1099,
+        "originalPrice":  4425,
+        "brand":  "Penguin",
+        "category":  "books-media",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0078",
+        "name":  "Atomic Habits v2",
+        "description":  "High quality atomic habits with excellent features and durability.",
+        "price":  949,
+        "originalPrice":  7116,
+        "brand":  "Penguin",
+        "category":  "books-media",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0079",
+        "name":  "The Lean Startup v2",
+        "description":  "High quality the lean startup with excellent features and durability.",
+        "price":  999,
+        "originalPrice":  5396,
+        "brand":  "Penguin",
+        "category":  "books-media",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0080",
+        "name":  "India: A History v2",
+        "description":  "High quality india: a history with excellent features and durability.",
+        "price":  1199,
+        "originalPrice":  5877,
+        "brand":  "Penguin",
+        "category":  "books-media",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0096",
+        "name":  "Formal Cotton Shirt v3",
+        "description":  "High quality formal cotton shirt with excellent features and durability.",
+        "price":  2299,
+        "originalPrice":  6914,
+        "brand":  "Van Heusen",
+        "category":  "clothing",
+        "inStock":  false
+    },
+    {
+        "id":  "prod-0097",
+        "name":  "Denim Jeans v3",
+        "description":  "High quality denim jeans with excellent features and durability.",
+        "price":  2499,
+        "originalPrice":  4866,
+        "brand":  "Lee",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0098",
+        "name":  "Cotton T-Shirt v3",
+        "description":  "High quality cotton t-shirt with excellent features and durability.",
+        "price":  1399,
+        "originalPrice":  6262,
+        "brand":  "Decathlon",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0099",
+        "name":  "Silk Saree v3",
+        "description":  "High quality silk saree with excellent features and durability.",
+        "price":  4999,
+        "originalPrice":  10425,
+        "brand":  "Kanjivaram",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0100",
+        "name":  "Cotton Kurti v3",
+        "description":  "High quality cotton kurti with excellent features and durability.",
+        "price":  1799,
+        "originalPrice":  4061,
+        "brand":  "Libas",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0101",
+        "name":  "Running Shoes v3",
+        "description":  "High quality running shoes with excellent features and durability.",
+        "price":  3999,
+        "originalPrice":  8861,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0102",
+        "name":  "Cricket Bat v3",
+        "description":  "High quality cricket bat with excellent features and durability.",
+        "price":  4499,
+        "originalPrice":  10440,
+        "brand":  "SG",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0103",
+        "name":  "Yoga Mat v3",
+        "description":  "High quality yoga mat with excellent features and durability.",
+        "price":  1799,
+        "originalPrice":  8731,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0104",
+        "name":  "Dumbbell Set v3",
+        "description":  "High quality dumbbell set with excellent features and durability.",
+        "price":  5999,
+        "originalPrice":  8213,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0105",
+        "name":  "Camping Tent v3",
+        "description":  "High quality camping tent with excellent features and durability.",
+        "price":  4999,
+        "originalPrice":  10444,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0106",
+        "name":  "Coffee Maker v3",
+        "description":  "High quality coffee maker with excellent features and durability.",
+        "price":  3499,
+        "originalPrice":  6188,
+        "brand":  "Philips",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0107",
+        "name":  "Microwave Oven v3",
+        "description":  "High quality microwave oven with excellent features and durability.",
+        "price":  6999,
+        "originalPrice":  10353,
+        "brand":  "LG",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0108",
+        "name":  "Air Purifier v3",
+        "description":  "High quality air purifier with excellent features and durability.",
+        "price":  9999,
+        "originalPrice":  16346,
+        "brand":  "Philips",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0111",
+        "name":  "Office Chair v3",
+        "description":  "High quality office chair with excellent features and durability.",
+        "price":  8999,
+        "originalPrice":  11415,
+        "brand":  "Nilkamal",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0112",
+        "name":  "Study Table v3",
+        "description":  "High quality study table with excellent features and durability.",
+        "price":  6999,
+        "originalPrice":  13578,
+        "brand":  "Nilkamal",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0114",
+        "name":  "Bookshelf v3",
+        "description":  "High quality bookshelf with excellent features and durability.",
+        "price":  4999,
+        "originalPrice":  8963,
+        "brand":  "Nilkamal",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0116",
+        "name":  "The Midnight Library v3",
+        "description":  "High quality the midnight library with excellent features and durability.",
+        "price":  1399,
+        "originalPrice":  6794,
+        "brand":  "Penguin",
+        "category":  "books-media",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0117",
+        "name":  "Indian Cooking Mastery v3",
+        "description":  "High quality indian cooking mastery with excellent features and durability.",
+        "price":  1599,
+        "originalPrice":  3906,
+        "brand":  "Penguin",
+        "category":  "books-media",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0118",
+        "name":  "Atomic Habits v3",
+        "description":  "High quality atomic habits with excellent features and durability.",
+        "price":  1449,
+        "originalPrice":  6779,
+        "brand":  "Penguin",
+        "category":  "books-media",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0119",
+        "name":  "The Lean Startup v3",
+        "description":  "High quality the lean startup with excellent features and durability.",
+        "price":  1499,
+        "originalPrice":  8208,
+        "brand":  "Penguin",
+        "category":  "books-media",
+        "inStock":  false
+    },
+    {
+        "id":  "prod-0120",
+        "name":  "India: A History v3",
+        "description":  "High quality india: a history with excellent features and durability.",
+        "price":  1699,
+        "originalPrice":  8190,
+        "brand":  "Penguin",
+        "category":  "books-media",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0136",
+        "name":  "Formal Cotton Shirt v4",
+        "description":  "High quality formal cotton shirt with excellent features and durability.",
+        "price":  2799,
+        "originalPrice":  8014,
+        "brand":  "Van Heusen",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0137",
+        "name":  "Denim Jeans v4",
+        "description":  "High quality denim jeans with excellent features and durability.",
+        "price":  2999,
+        "originalPrice":  6909,
+        "brand":  "Lee",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0138",
+        "name":  "Cotton T-Shirt v4",
+        "description":  "High quality cotton t-shirt with excellent features and durability.",
+        "price":  1899,
+        "originalPrice":  6036,
+        "brand":  "Decathlon",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0139",
+        "name":  "Silk Saree v4",
+        "description":  "High quality silk saree with excellent features and durability.",
+        "price":  5499,
+        "originalPrice":  9623,
+        "brand":  "Kanjivaram",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0140",
+        "name":  "Cotton Kurti v4",
+        "description":  "High quality cotton kurti with excellent features and durability.",
+        "price":  2299,
+        "originalPrice":  4313,
+        "brand":  "Libas",
+        "category":  "clothing",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0141",
+        "name":  "Running Shoes v4",
+        "description":  "High quality running shoes with excellent features and durability.",
+        "price":  4499,
+        "originalPrice":  7938,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0142",
+        "name":  "Cricket Bat v4",
+        "description":  "High quality cricket bat with excellent features and durability.",
+        "price":  4999,
+        "originalPrice":  10368,
+        "brand":  "SG",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0143",
+        "name":  "Yoga Mat v4",
+        "description":  "High quality yoga mat with excellent features and durability.",
+        "price":  2299,
+        "originalPrice":  6346,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0144",
+        "name":  "Dumbbell Set v4",
+        "description":  "High quality dumbbell set with excellent features and durability.",
+        "price":  6499,
+        "originalPrice":  11012,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  false
+    },
+    {
+        "id":  "prod-0145",
+        "name":  "Camping Tent v4",
+        "description":  "High quality camping tent with excellent features and durability.",
+        "price":  5499,
+        "originalPrice":  8522,
+        "brand":  "Decathlon",
+        "category":  "sports-outdoors",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0146",
+        "name":  "Coffee Maker v4",
+        "description":  "High quality coffee maker with excellent features and durability.",
+        "price":  3999,
+        "originalPrice":  6207,
+        "brand":  "Philips",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0147",
+        "name":  "Microwave Oven v4",
+        "description":  "High quality microwave oven with excellent features and durability.",
+        "price":  7499,
+        "originalPrice":  11545,
+        "brand":  "LG",
+        "category":  "home-garden",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0148",
+        "name":  "boAt Airdopes 131 TWS Earbuds",
+        "description":  "True wireless earbuds with 60H playtime, BEAST mode for low latency gaming, IPX4 water resistance, and instant voice assistant access.",
+        "price":  1299,
+        "originalPrice":  2990,
+        "brand":  "boAt",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0149",
+        "name":  "Realme Buds Air 3 Neo",
+        "description":  "Wireless earbuds with 30H total playback, fast charging, AI ENC for calls, and 10mm dynamic bass boost driver for immersive sound.",
+        "price":  1799,
+        "originalPrice":  2999,
+        "brand":  "Realme",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0150",
+        "name":  "Mi 10000mAh Power Bank 3i",
+        "description":  "Fast charging power bank with 18W fast charging, dual USB output, 10000mAh capacity, and 12-layer circuit protection for safe charging.",
+        "price":  999,
+        "originalPrice":  1499,
+        "brand":  "Mi",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0151",
+        "name":  "Portronics Konnect L 1.2M USB Cable",
+        "description":  "Fast charging USB Type-C cable with 3A current support, data sync capability, durable braided design, and universal compatibility.",
+        "price":  349,
+        "originalPrice":  699,
+        "brand":  "Portronics",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0152",
+        "name":  "Ambrane 20W Fast Charger",
+        "description":  "20W USB-C PD fast charger with universal compatibility, compact design, multiple safety protections, and efficient charging technology.",
+        "price":  599,
+        "originalPrice":  999,
+        "brand":  "Ambrane",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0153",
+        "name":  "Zebronics Zeb-Sound Bomb 1 Speaker",
+        "description":  "Portable Bluetooth speaker with 5W output, 6H playtime, FM radio, AUX input, and compact design perfect for outdoor activities.",
+        "price":  799,
+        "originalPrice":  1299,
+        "brand":  "Zebronics",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0154",
+        "name":  "Noise ColorFit Pro 4 Alpha Smartwatch",
+        "description":  "Advanced smartwatch with 1.78\" AMOLED display, 60Hz refresh rate, 100+ sports modes, health monitoring, and 7-day battery life.",
+        "price":  4999,
+        "originalPrice":  7999,
+        "brand":  "Noise",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0155",
+        "name":  "Fire-Boltt Phoenix Pro Smartwatch",
+        "description":  "Premium smartwatch with 1.39\" HD display, Bluetooth calling, 120+ sports modes, SpO2 monitoring, and IP67 water resistance.",
+        "price":  2999,
+        "originalPrice":  5999,
+        "brand":  "Fire-Boltt",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0156",
+        "name":  "Redgear A-15 Wired Gaming Headset",
+        "description":  "Professional gaming headset with 7.1 surround sound, noise-canceling microphone, RGB lighting, and comfortable over-ear design.",
+        "price":  1599,
+        "originalPrice":  2999,
+        "brand":  "Redgear",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0157",
+        "name":  "Logitech B175 Wireless Mouse",
+        "description":  "Reliable wireless mouse with 12-month battery life, plug-and-play setup, comfortable design, and precise optical tracking.",
+        "price":  895,
+        "originalPrice":  1295,
+        "brand":  "Logitech",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0158",
+        "name":  "HP 32GB USB 3.0 Flash Drive",
+        "description":  "High-speed USB 3.0 flash drive with 32GB storage, compact metal design, fast data transfer, and universal compatibility.",
+        "price":  649,
+        "originalPrice":  999,
+        "brand":  "HP",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0159",
+        "name":  "Quantum QHM7468 2.4GHz Wireless Keyboard Mouse Combo",
+        "description":  "Wireless keyboard and mouse combo with 2.4GHz connectivity, spill-resistant keyboard, optical mouse, and long battery life.",
+        "price":  1299,
+        "originalPrice":  1999,
+        "brand":  "Quantum",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0160",
+        "name":  "Portronics Toad 20 Car Charger",
+        "description":  "Dual USB car charger with 3.4A output, smart charging technology, LED indicator, and compact design for all vehicles.",
+        "price":  399,
+        "originalPrice":  699,
+        "brand":  "Portronics",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0161",
+        "name":  "Syska 10000mAh Power Bank",
+        "description":  "Compact power bank with 10000mAh capacity, dual USB output, LED indicators, and multiple safety protections for reliable charging.",
+        "price":  899,
+        "originalPrice":  1499,
+        "brand":  "Syska",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0162",
+        "name":  "Intex IT-2202 SUF OS 2.1 Computer Speakers",
+        "description":  "2.1 multimedia speakers with subwoofer, 25W RMS output, volume control, bass control, and 3.5mm audio input for computers.",
+        "price":  1199,
+        "originalPrice":  1799,
+        "brand":  "Intex",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0163",
+        "name":  "Redmi A3",
+        "description":  "Budget smartphone with 6.71\" HD+ display, MediaTek Helio G36 processor, 5000mAh battery, dual rear camera, and Android 14 Go edition.",
+        "price":  7299,
+        "originalPrice":  8999,
+        "brand":  "Xiaomi",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0164",
+        "name":  "Samsung Galaxy M04",
+        "description":  "Entry-level smartphone with 6.5\" HD+ display, MediaTek Helio P35 processor, 5000mAh battery, dual camera setup, and One UI Core.",
+        "price":  8499,
+        "originalPrice":  9999,
+        "brand":  "Samsung",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0165",
+        "name":  "Realme C55",
+        "description":  "Stylish smartphone with 6.72\" FHD+ display, MediaTek Helio G88 processor, 5000mAh battery, 64MP AI camera, and realme UI 4.0.",
+        "price":  9999,
+        "originalPrice":  12999,
+        "brand":  "Realme",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0166",
+        "name":  "POCO C65",
+        "description":  "Performance-focused smartphone with 6.74\" HD+ display, MediaTek Helio G85 processor, 5000mAh battery, 50MP camera, and MIUI 14.",
+        "price":  8999,
+        "originalPrice":  10999,
+        "brand":  "POCO",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0167",
+        "name":  "Infinix Hot 30i",
+        "description":  "Trendy smartphone with 6.6\" HD+ display, MediaTek Helio G36 processor, 5000mAh battery, 48MP AI camera, and XOS 13 based on Android 13.",
+        "price":  7799,
+        "originalPrice":  9499,
+        "brand":  "Infinix",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0168",
+        "name":  "Tecno Spark 10 Pro",
+        "description":  "Feature-rich smartphone with 6.8\" FHD+ display, MediaTek Helio G88 processor, 5000mAh battery, 48MP triple camera, and HiOS 13.",
+        "price":  9499,
+        "originalPrice":  11999,
+        "brand":  "Tecno",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0169",
+        "name":  "Lava Blaze 2 5G",
+        "description":  "5G-enabled smartphone with 6.56\" HD+ display, MediaTek Dimensity 6020 processor, 5000mAh battery, 50MP camera, and clean Android 13.",
+        "price":  9999,
+        "originalPrice":  12499,
+        "brand":  "Lava",
+        "category":  "electronics",
+        "inStock":  true
+    },
+    {
+        "id":  "prod-0170",
+        "name":  "itel A70",
+        "description":  "Ultra-budget smartphone with 6.6\" HD+ display, UNISOC Tiger T603 processor, 4000mAh battery, dual camera, and Android 14 Go edition.",
+        "price":  5999,
+        "originalPrice":  7499,
+        "brand":  "itel",
+        "category":  "electronics",
+        "inStock":  true
+    }
+]
